@@ -1,6 +1,7 @@
 # Quiz 2 DAA : Tic Tac Toe
 
 Ulima Kaltsum RH - 5025211232
+DAA E
 
 Tic tac toe is a two-player game that takes turns marking the spaces available in a three-by-three grid with ‘X’ or ‘O’. The first player who succeeds in marking three of their symbols in the grid by horizontal, vertical, and diagonal row will win the game. If the condition is not met, the game will end in a draw. There are no specific rules for deciding which player will go first, but usually, the first player goes by the symbol of ‘X’. There is only one rule in playing tic tac toe, which is both players can’t mark their symbol in a place where it has been marked before.
 The instruction for playing tic-tac-toe in our program:
